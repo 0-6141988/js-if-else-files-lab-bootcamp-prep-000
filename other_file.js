@@ -1,3 +1,3 @@
-var index = 74
+var index = 
 require("./index.js")
 console.log(index.name)
